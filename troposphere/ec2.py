@@ -2449,6 +2449,7 @@ class Options(AWSProperty):
         "ApplianceModeSupport": (str, False),
         "DnsSupport": (str, False),
         "Ipv6Support": (str, False),
+        "Igmpv2Support": (str, False),
     }
 
 
